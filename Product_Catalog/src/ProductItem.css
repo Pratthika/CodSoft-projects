@@ -1,0 +1,29 @@
+.product-item {
+    border: 1px solid #000000;
+    border-radius: 4px;
+    padding: 10px;
+    width: 150px;
+    text-align: center;
+    background-color: rgb(31, 31, 43);
+  }
+  
+  .product-item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .product-item h2 {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: white;
+  }
+  
+  .product-item p {
+    font-size: 1em;
+    color: #be9334;
+  }
+
+  .product-item button{
+    border-radius: 7px;
+    background-color: #e0740f;
+  }
