@@ -1,0 +1,22 @@
+.AddTask button {
+    background-color: rgb(230, 186, 42);
+    border-radius: 2px;
+  }
+  
+  .Save button {
+    background-color: rgb(87, 238, 87);
+  }
+  
+  .Controls button {
+    border-radius: 7px;
+    padding: 10px;
+    margin-top: 25px;
+    cursor: pointer;
+  }
+  
+.Del button {
+    background-color: rgba(241, 49, 49, 0.911) !important;
+    color: white;
+    border: none;
+  }
+  
